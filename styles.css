@@ -1,0 +1,32 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5c00ff;
+}
+
+h4 {
+    font-style: unset;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff;
+}
+
+h5 {
+    font-style: bold;
+}
+
+h6 {
+    color: #ffdcdc;
+}
+
+* {
+    background-color: #000000;
+}
+
+a {
+    color: #ff5e1a;
+}
+
+img {
+    width: 168px;
+    height: 140px;
+    justify-content: center;
+}
